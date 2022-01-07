@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is sample 1 for stats 21 github repository.
 
 This is the change. 
+=======
+This is sample 1 for stats 21 github repository.
+>>>>>>> 5170c10ceba73adfadd584b0786fe949093adb36
